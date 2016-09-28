@@ -2,9 +2,7 @@ import java.lang.*;
 import static org.junit.Assert.*;
 
 /**
- * KPCB Coding Challenge Submission: Megan Carey
  * @author mcarey
- * 
  * Test class to ensure functionality of FixedHashMap data structure.
  **/
 public class FixedHashMapTest {

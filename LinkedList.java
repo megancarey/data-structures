@@ -1,5 +1,4 @@
 /** 
- * KPCB Coding Challenge Submission: Megan Carey
  * @author mcarey
  *
  * Additional class:

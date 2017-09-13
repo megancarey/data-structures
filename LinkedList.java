@@ -1,8 +1,5 @@
 /** 
  * @author mcarey
- *
- * Additional class:
- * LinkedList implementation to store elements.
  **/
 
 public class LinkedList {
